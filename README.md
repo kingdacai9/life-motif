@@ -1,6 +1,6 @@
 <p align="center">
 
-# 🧬人生母题 .Skill
+#                🧬人生母题 .Skill
 
 </p>
 
