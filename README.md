@@ -38,7 +38,7 @@
 1. [`SKILL.md`](SKILL.md)
 2. [`life-motif-map-template.html`](assets/life-motif-map-template.html)
 
-也可以直接下载 [人生母题2.0完整ZIP](https://github.com/kingdacai9/life-motif/archive/refs/tags/v2.0.0.zip)，解压后找到这两个文件。
+也可以直接下载 [人生母题2.0最新完整ZIP](https://github.com/kingdacai9/life-motif/archive/refs/heads/main.zip)，解压后找到这两个文件。
 
 不要修改公版HTML。完成访谈后，AI会另存你的个人版本。
 
