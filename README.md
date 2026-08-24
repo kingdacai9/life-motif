@@ -1,11 +1,14 @@
-<h1 align="center">🧬 人生母题 Life Motif 2.0</h1>
+<h1 align="center">🧬人生母题 .Skill</h1>
+
+<p align="center"><strong>Life Motif 2.0</strong></p>
 
 <p align="center">
-  <img alt="Version" src="https://img.shields.io/badge/Version-2.0-2459e0">
-  <img alt="Sections" src="https://img.shields.io/badge/人生板块-35-e54b3e">
-  <img alt="Output" src="https://img.shields.io/badge/交付-HTML地图-171714">
-  <img alt="Update" src="https://img.shields.io/badge/支持-持续更新-2b7a4b">
-  <img alt="Language" src="https://img.shields.io/badge/Language-中文-d99a2b">
+  <a href="LICENSE"><img alt="License" src="https://img.shields.io/badge/License-Mixed-green"></a>
+  <img alt="Claude Code" src="https://img.shields.io/badge/Claude%20Code-Skill-purple">
+  <img alt="WorkBuddy" src="https://img.shields.io/badge/WorkBuddy-Skill-blue">
+  <img alt="Sections" src="https://img.shields.io/badge/Sections-35-red">
+  <img alt="Output" src="https://img.shields.io/badge/Output-HTML-171714">
+  <img alt="Language" src="https://img.shields.io/badge/Language-%E4%B8%AD%E6%96%87-red">
 </p>
 
 <p align="center"><strong>看见你的来时路，找到你反复走过的那条路。</strong></p>
