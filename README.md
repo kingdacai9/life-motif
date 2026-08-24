@@ -6,9 +6,9 @@
   <a href="LICENSE"><img alt="License" src="https://img.shields.io/badge/License-Mixed-green"></a>
   <img alt="Claude Code" src="https://img.shields.io/badge/Claude%20Code-Skill-purple">
   <img alt="WorkBuddy" src="https://img.shields.io/badge/WorkBuddy-Skill-blue">
-  <img alt="Sections" src="https://img.shields.io/badge/Sections-35-red">
-  <img alt="Output" src="https://img.shields.io/badge/Output-HTML-171714">
-  <img alt="Language" src="https://img.shields.io/badge/Language-%E4%B8%AD%E6%96%87-red">
+  <img alt="Sections" src="https://img.shields.io/badge/Sections-35-a66a2c">
+  <img alt="Output" src="https://img.shields.io/badge/Output-HTML-2459e0">
+  <img alt="Language" src="https://img.shields.io/badge/Language-%E4%B8%AD%E6%96%87-657586">
 </p>
 
 <p align="center"><strong>看见你的来时路，找到你反复走过的那条路。</strong></p>
