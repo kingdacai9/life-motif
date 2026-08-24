@@ -11,7 +11,7 @@
   <img alt="Language" src="https://img.shields.io/badge/Language-%E4%B8%AD%E6%96%87-657586">
 </p>
 
-<p align="center"><strong>看见你的来时路，找到你反复走过的那条路。</strong></p>
+<p align="center"><strong>看见你的来时路，找到你的人生母题。</strong></p>
 <p align="center">经营人生之前，先看清你是谁。</p>
 
 ---
